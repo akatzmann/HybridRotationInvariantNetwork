@@ -1,4 +1,8 @@
-# Hybrid Rotation Invariant Network
+# Hybrid Rotation Invariant Networks
+
+<p align="center">
+ <img src="./img/HybridRotInvFilters.png" width="600px">
+</p>
 
 This is a **Tensorflow**/**Keras** implementation of the rotation invariant layers introduced in [Hybrid Rotation Invariant Networks for small sample size deep learning](https://openreview.net/pdf?id=BJlVNY8llV) by *Alexander Katzmann, Marc-Steffen Seibel, Alexander Mühlberg, Michael Sühling, Dominik Nörenberg, Stefan Maurus, Thomas Huber* and *Horst-Michael Groß*.
 
